@@ -1,0 +1,28 @@
+/* your styles go here */
+.img-icon{
+    height: 16px;
+}
+.img-pos{
+    position: absolute;
+}
+.page-cap{
+    text-transform: capitalize;
+    font-weight: bolder;
+}
+.text-cap{
+    text-transform: uppercase;
+    font-weight: bolder;
+}
+.fs-14{
+    font-size:14px;
+}
+.table-bg{
+    background-color: #393836;
+}
+.table-bg th {
+    color: white;
+}
+.upcase{
+    text-transform: uppercase;
+}/* your styles go here */
+
